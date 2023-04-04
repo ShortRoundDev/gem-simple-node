@@ -1,0 +1,9 @@
+{
+    "title": "Shortround's Space",
+    "host": "localhost",
+    "author": "Shortround",
+    "appNamespace": "f489d911-5e0c-4450-826f-1690baf5a246",
+    "cert": "cert.pem",
+    "key": "key.pem",
+    "gemSpace": "gmi"
+}
