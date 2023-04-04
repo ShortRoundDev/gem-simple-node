@@ -52,8 +52,6 @@ app.on('/atom.xml', (req, res) => {
         xml.push(`</entry>`);
     });
     xml.push(`</feed>`);
-
-    console.log(Object.keys(res));
     
     res.data(xml.join("\n"), mimeType="application/atom+xml");
 });
