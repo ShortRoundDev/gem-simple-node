@@ -1,3 +1,5 @@
-#My posts
+# Welcome to my simple gem capsule!
 
-=> /logs/test-post-please-ignore.gmi Test Post Please Ignore
+## My logs
+
+=> /logs/the-man-the-myth-the-legend.-John-Romero.gmi The Man, The Myth, The Legend. John Romero
