@@ -1,0 +1,6 @@
+cert.pem
+key.pem
+*.pem
+
+node_modules/**
+gem.log
